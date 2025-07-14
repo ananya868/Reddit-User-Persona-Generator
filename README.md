@@ -4,9 +4,9 @@ An AI-powered tool to create detailed, data-driven user personas from Reddit pro
 
 ---
 
-## ✨ Key Features
+## 📌 Key Features
 
-*   **AI-Powered Analysis**: Utilizes LLMs via **LiteLLM** for intelligent persona generation, making it compatible with various models (OpenAI, Claude, Gemini, etc.).
+*   **AI Based Analysis**: Utilizes LLMs via **LiteLLM** for intelligent persona generation, making it compatible with various models (OpenAI, Claude, Gemini, etc.).
 *   **Data-Driven with Citations**: Every insight (e.g., interests, frustrations) is backed by citations, linking directly to the source post or comment.
 *   **Dual Output Modes**: Generate personas as either structured **JSON** (for machine readability) or clean **Markdown** (for human readability).
 *   **Robust & Modular Architecture**: The codebase is cleanly separated into modules for scraping, data processing, and persona building, following best software practices.
