@@ -1,0 +1,66 @@
+{
+    "summary_analysis": {
+        "username": "Asta-12",
+        "total_posts": 5,
+        "total_comments": 5,
+        "most_active_period": "Morning (5am-12pm UTC)",
+        "average_post_score": 1.8,
+        "average_comment_score": 2.2,
+        "nsfw_post_percentage": 0.0,
+        "spoiler_post_percentage": 0.0,
+        "original_content_percentage": 0.0,
+        "edited_comment_percentage": 0.0
+    },
+    "content_for_llm": [
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/IndiaTech/comments/1lzb5fk/whats_the_most_underrated_al_youtube_channel/",
+            "content": "Post Title: What's the most underrated Al YouTube channel/ blog/newsletter you follow ?\n\nPost Body: [removed]"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1lzb416/whats_the_most_underrated_al_youtube_channel/",
+            "content": "Post Title: What's the most underrated Al YouTube channel/ blog/newsletter you follow ?\n\nPost Body: Hi all, I'm looking for genuinely useful ai resources whether yt channels that explain concepts or blogs/ newsletters through which i can learn new stuff.\nThanks in advance!"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/LangChain/comments/1lzb3dg/whats_the_most_underrated_al_youtube_channel/",
+            "content": "Post Title: What's the most underrated Al YouTube channel/ blog/newsletter you follow ?\n\nPost Body: Hi all, I'm looking for genuinely useful ai resources whether yt channels that explain concepts or blogs/ newsletters through which i can learn new stuff.\nThanks in advance!"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/AI_India/comments/1lzb2xq/whats_the_most_underrated_al_youtube_channel/",
+            "content": "Post Title: What's the most underrated Al YouTube channel/ blog/newsletter you follow ?\n\nPost Body: Hi all, I'm looking for genuinely useful ai resources whether yt channels that explain concepts or blogs/ newsletters through which i can learn new stuff.\nThanks in advance!"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/IndiaTech/comments/1kz8m5d/what_does_deepseek_r1_0528_do_that_deepseek_r1/",
+            "content": "Post Title: What does DeepSeek R1 0528 do that DeepSeek R1 can't\n\nPost Body: What's different in DeepSeek R1 0528 compared to the original R1?Any improvements or issues you've noticed ?I'm curious to hear your experience with it..."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/freelancesuccesshub/comments/1l11q4d/best_ai_tools/mw3izf3/",
+            "content": "Where is deepseek?"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/DeepSeek/comments/1kz8kjz/what_does_deepseek_r1_0528_do_that_deepseek_r1/mv3ot10/",
+            "content": "Thats impressive! Makes me curious what R2 will be capable of \ud83d\udc7e"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/DeepSeek/comments/1kz8kjz/what_does_deepseek_r1_0528_do_that_deepseek_r1/mv3ntm9/",
+            "content": "Hmm,intresting!"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1id5kwq/does_anyone_want_to_form_a_group_to_do_machine/m9zcnth/",
+            "content": "Yess"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/TeenIndia/comments/1i8x5jc/deleted_by_user/m8x2u6p/",
+            "content": "Yeah b tech"
+        }
+    ]
+}
