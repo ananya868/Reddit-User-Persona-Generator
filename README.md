@@ -26,8 +26,6 @@ An AI-powered tool to create detailed, data-driven user personas from Reddit pro
 
 ---
 
-
-
 ## ⚙️ Setup and Installation
 
 Follow these steps to set up and run the project locally.
@@ -127,6 +125,11 @@ curl -X 'POST' \
     "comment_limit": 30
   }'
 ```
+
+**4. Test with PostMan**
+You can also try the api using PostMan: 
+
+![Test](output/postman_test.png) 
 
 ---
 
