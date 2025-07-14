@@ -78,6 +78,9 @@ LLM_MODEL="gpt-4o-mini"
 OPENAI_API_KEY="sk-..."
 ```
 
+**NOTE: Please install provider specific client library as well if required. Example - google, anthropic, etc.**
+**For this project, I used OpenAI!**
+
 ---
 
 ## 🧺 Usage
