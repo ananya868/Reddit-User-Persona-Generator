@@ -2,6 +2,10 @@
 
 An AI-powered tool to create detailed, data-driven user personas from Reddit profiles. This project leverages Large Language Models (LLMs) to analyze a user's posts and comments, generating insights into their personality, interests, and online behavior. The tool is available as both a command-line interface (CLI) and a REST API.
 
+**Simple Demo**
+
+[https://github.com/user-attachments/assets/c59be406-1e4e-45c4-9205-ecaa67e36cbc](https://github.com/user-attachments/assets/c59be406-1e4e-45c4-9205-ecaa67e36cbc) 
+
 ---
 
 ## 📌 Key Features
