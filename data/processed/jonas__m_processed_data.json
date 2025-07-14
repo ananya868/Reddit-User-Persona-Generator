@@ -1,0 +1,116 @@
+{
+    "summary_analysis": {
+        "username": "jonas__m",
+        "total_posts": 10,
+        "total_comments": 10,
+        "most_active_period": "Late Night (9pm-4am UTC)",
+        "average_post_score": 12.1,
+        "average_comment_score": 1.0,
+        "nsfw_post_percentage": 0.0,
+        "spoiler_post_percentage": 0.0,
+        "original_content_percentage": 0.0,
+        "edited_comment_percentage": 0.0
+    },
+    "content_for_llm": [
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/OpenAI/comments/1lz3v5q/prevent_incorrect_responses_from_any_agent_with/",
+            "content": "Post Title: Prevent incorrect responses from any Agent with automated trustworthiness scoring\n\nPost Body: A reliable Agent needs many LLM calls to all be correct, but even today's best LLMs remain brittle/error-prone. How do you deal with this to ensure your Agents are reliable and don't go off-the-rails?\n\nMy\u00a0most effective technique is LLM trustworthiness scoring to auto-identify incorrect Agent responses in real-time. I built a tool for this based on\u00a0[my research](https://aclanthology.org/2024.acl-long.283/)\u00a0in uncertainty estimation for LLMs. It was recently\u00a0[featured by LangGraph](https://www.linkedin.com/posts/langchain_prevent-hallucinated-responses-our-integration-activity-7345463569032888320-BgtH/)\u00a0so I thought you might find it useful!\n\nSome Resources:\n\n* [Blogpost overview](https://cleanlab.ai/blog/prevent-hallucinated-responses/)\n* [Tutorial to make LangGraph Agents trustworthy](https://help.cleanlab.ai/tlm/use-cases/tlm_existing_agent/)\n* [Tutorial for OpenAI Agents SDK](https://help.cleanlab.ai/tlm/use-cases/tlm_openai_agents/)"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/LangChain/comments/1lz3t89/prevent_incorrect_responses_from_any_agent_with/",
+            "content": "Post Title: Prevent incorrect responses from any Agent with automated trustworthiness scoring\n\nPost Body: A reliable Agent needs many LLM calls to all be correct, but even today's best LLMs remain brittle/error-prone. How do you deal with this to ensure your Agents are reliable and don't go off-the-rails?\n\nMy\u00a0most effective technique is LLM trustworthiness scoring to auto-identify incorrect Agent responses in real-time. I built a tool for this based on [my research](https://aclanthology.org/2024.acl-long.283/)\u00a0in uncertainty estimation for LLMs. It was recently\u00a0[featured by LangGraph](https://www.linkedin.com/posts/langchain_prevent-hallucinated-responses-our-integration-activity-7345463569032888320-BgtH/)\u00a0so I thought you might find it useful!\n\nSome Resources:\n\n* [Blogpost overview](https://cleanlab.ai/blog/prevent-hallucinated-responses/)\n* [Tutorial to make LangGraph Agents trustworthy](https://help.cleanlab.ai/tlm/use-cases/tlm_existing_agent/)\n* [Tutorial for OpenAI Agents SDK](https://help.cleanlab.ai/tlm/use-cases/tlm_openai_agents/)"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/AI_Agents/comments/1lz3mm3/prevent_incorrect_responses_from_any_agent_with/",
+            "content": "Post Title: Prevent incorrect responses from any Agent with automated trustworthiness scoring\n\nPost Body: A reliable Agent needs many LLM calls to all be correct, but even today's best LLMs remain brittle/error-prone.  How do you deal with this to ensure your Agents are reliable and don't go off-the-rails?  \n  \nMy\u00a0most effective technique is LLM trustworthiness scoring to auto-identify incorrect Agent responses in real-time.  I built a tool for this based on my research\u00a0in uncertainty estimation for LLMs.  It was recently\u00a0featured by LangGraph\u00a0so I thought you might find it useful!"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/LangChain/comments/1jz32d1/realtime_evaluation_models_for_rag_who_detects/",
+            "content": "Post Title: Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?\n\nPost Body: Many Evaluation models have been proposed for RAG, but can they actually detect incorrect RAG responses in real-time? This is tricky without any ground-truth answers or labels.\n\nMy colleague published a benchmark across six RAG applications that compares reference-free Evaluation models like: LLM-as-a-Judge, Prometheus, Lynx, HHEM, TLM.\n\n[https://arxiv.org/abs/2503.21157](https://arxiv.org/abs/2503.21157)\n\nIncorrect responses are the worst aspect of any RAG app, so being able to detect them is a game-changer. This benchmark study reveals the real-world performance (precision/recall) of popular detectors. Hope it's helpful!"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/Rag/comments/1jz2ffm/realtime_evaluation_models_for_rag_who_detects/",
+            "content": "Post Title: Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?\n\nPost Body: Many Evaluation models have been proposed for RAG, but can they actually detect incorrect RAG responses in real-time?  This is tricky without any ground-truth answers or labels.\n\nMy colleague published a benchmark across six RAG applications that compares reference-free Evaluation models like: LLM-as-a-Judge, Prometheus, Lynx, HHEM, TLM.\n\nIncorrect responses are the worst aspect of any RAG app, so being able to detect them is a game-changer.  This benchmark study reveals the real-world performance (precision/recall) of popular detectors.  Hope it's helpful!"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/OpenAI/comments/1jz2csi/realtime_evaluation_models_for_rag_who_detects/",
+            "content": "Post Title: Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?\n\nPost Body: Many Evaluation models have been proposed for RAG, but can they actually detect incorrect RAG responses in real-time?  This is tricky without any ground-truth answers or labels.\n\nMy colleague published a benchmark across six RAG applications that compares reference-free Evaluation models like: LLM-as-a-Judge, Prometheus, Lynx, HHEM, TLM.\n\nIncorrect responses are the worst aspect of any RAG app, so being able to detect them is a game-changer.  This benchmark study reveals the real-world performance (precision/recall) of popular detectors.  Hope it's helpful!"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/AI_Agents/comments/1j9983e/automated_llm_trust_scoring_to_address_the_1/",
+            "content": "Post Title: Automated LLM trust scoring to address the #1 challenge in AI Agents: Reliability\n\nPost Body: Reliability is the #1 complaint I hear from Agent builders.\n\nThat's why I developed a state-of-the-art uncertainty estimator that catches hallucinations from any LLM (including GPT 4.5, o3, o1, Sonnet 3.7, ...). It's effective for any agentic LLM application, including: RAG, classification/routing, structured outputs, function calling, etc.  Benchmarks show it can reduce the rate of incorrect answers: of GPT-4o by 27%, of o1 by 20%, and of Claude 3.5 Sonnet by 20%.\n\nHere some examples using my system to score the trustworthiness of various LLMs:\n\n**Prompt**:  \"*How many parameters does the o3-mini LLM have? Answer in numerical format.*\"  \n  \nResponse from GPT 4.5:  \"*3 billion*\"  \nTrustworthiness Score:  0.675\n\nResponse from Sonnet 3.7:  \"*2.8 billion*\"  \nTrustworthiness Score:  0.208\n\nResponse from o3-mini:  \"*I couldn\u2019t find any publicly available information that specifies a parameter count for the OpenAI o3\u2011mini model. Without an official disclosure, it isn\u2019t possible to provide a numerical answer.*\"  \nTrustworthiness Score:  0.863\n\n**Prompt**:  \"*A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost? Answer in numeric format*\"\n\nResponse from o3-mini:  \"*0.05*\"  \nTrustworthiness Score:  0.992\n\n**Prompt**:  \"*A Holographic Mint Condition Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch-Produced Super De Duper Big Black Bug Pokemon Trading Card and a Super De Duper Amazing Willy Wonka Extra Cocoa Trimethylsiloxysilicate-Free Chocolate Bar cost $1.10 in total. The Holographic Mint Condition Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch-Produced Super De Duper Big Black Bug Pokemon Trading Card costs $1.00 more than the Super De Duper Amazing Willy Wonka Extra Cocoa Trimethylsiloxysilicate-Free Chocolate Bar. How much does the Super De Duper Amazing Willy Wonka Extra Cocoa Trimethylsiloxysilicate-Free Chocolate Bar cost? Answer in numeric format*\"\n\nResponse from o3-mini:  \"*Let x be the price of the Super De Duper Amazing Willy Wonka Extra Cocoa Trimethylsiloxysilicate-Free Chocolate Bar. Then, the Holographic Mint Condition Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch-Produced Super De Duper Big Black Bug Pokemon Trading Card costs x + 1.00.*  \n*The total cost is given by:  x + (x + 1.00) = 1.10*  \n*Combine like terms:  2x + 1.00 = 1.10*  \n*Subtract 1.00 from both sides:  2x = 0.10*  \n*Divide both sides by 2:  x = 0.05*  \n*Thus, the Super De Duper Amazing Willy Wonka Extra Cocoa Trimethylsiloxysilicate-Free Chocolate Bar costs 0.05.*\"  \nTrustworthiness Score:  0.859\n\n  \nHow it works:  My system comprehensively characterizes the uncertainty in a LLM response via multiple processes (implemented to run efficiently):  \n\\- Reflection: a process in which the LLM is asked to explicitly evaluate the response and estimate confidence levels.  \n\\- Consistency: a process in which we consider multiple alternative responses that the LLM thinks could be plausible, and we measure how contradictory these responses are.\n\nThese processes are integrated into a comprehensive uncertainty measure that accounts for both\u00a0**known unknowns**\u00a0(aleatoric uncertainty, eg. a complex or vague user-prompt) and\u00a0**unknown unknowns**\u00a0(epistemic uncertainty, eg. a user-prompt that is atypical vs the LLM's original training data).\n\nLearn more in my blog & research paper in the comments."
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1j6zbor/use_uncertainty_estimation_to_catch/",
+            "content": "Post Title: Use uncertainty estimation to catch hallucinations from any LLM (including o3, o1, GPT 4.5, Sonnet 3.7, ...)\n\nPost Body:"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1j6thyw/visualizing_llm_beliefs_predictive_distributions/",
+            "content": "Post Title: Visualizing LLM beliefs (predictive distributions) for time-series, conditioned on free-form side information\n\nPost Body:"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1j6t7uz/an_uncertainty_estimator_to_detect_hallucinations/",
+            "content": "Post Title: An uncertainty estimator to detect hallucinations from any LLM (including GPT 4.5, o3, o1, Sonnet 3.7, ...)\n\nPost Body:"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/OpenAI/comments/1lz3v5q/prevent_incorrect_responses_from_any_agent_with/n304vwc/",
+            "content": "Glad you found it interesting. \n\nMy approach is not a new model, but rather a system for estimating the uncertainty in any LLM, and how to incorporate these scores in an Agent to catch incorrect responses. \n\nHere's a short description of how my uncertainty estimation system works:  \n[https://help.cleanlab.ai/tlm/faq/#how-does-it-work](https://help.cleanlab.ai/tlm/faq/#how-does-it-work)\n\nMore details are provided in my research paper:  \n[https://aclanthology.org/2024.acl-long.283/](https://aclanthology.org/2024.acl-long.283/)"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/AI_Agents/comments/1lz3mm3/prevent_incorrect_responses_from_any_agent_with/n304hsw/",
+            "content": "Thanks!    \n  \nHere's a short answer to your question:    \n[https://help.cleanlab.ai/tlm/faq/#how-does-it-work](https://help.cleanlab.ai/tlm/faq/#how-does-it-work) \n\nMore details are provided in my research paper:  \n[https://aclanthology.org/2024.acl-long.283/](https://aclanthology.org/2024.acl-long.283/)"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/LLMDevs/comments/1ly2tt7/whats_next_after_reasoning_and_agents/n2yr6ko/",
+            "content": "\\- tackling hallucinations (uncertainty estimation)\n\n\\- long horizon tasks (and instruction following)\n\n\\- continual learning (learning more skills online with old knowledge/skills degrading)\n\n\\- LLMs curating their own information for learning online"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/AI_Agents/comments/1lz3mm3/prevent_incorrect_responses_from_any_agent_with/n2you3w/",
+            "content": "Resources:\n\nBlogpost:  [https://cleanlab.ai/blog/prevent-hallucinated-responses/](https://cleanlab.ai/blog/prevent-hallucinated-responses/)\n\nPost by LangGraph\u00a0team:  [https://www.linkedin.com/posts/langchain\\_prevent-hallucinated-responses-our-integration-activity-7345463569032888320-BgtH/](https://www.linkedin.com/posts/langchain_prevent-hallucinated-responses-our-integration-activity-7345463569032888320-BgtH/)\n\nTutorial to make LangGraph Agents trustworthy:  [https://help.cleanlab.ai/tlm/use-cases/tlm\\_existing\\_agent/](https://help.cleanlab.ai/tlm/use-cases/tlm_existing_agent/)\n\nTutorial for OpenAI Agents SDK:  [https://help.cleanlab.ai/tlm/use-cases/tlm\\_openai\\_agents/](https://help.cleanlab.ai/tlm/use-cases/tlm_openai_agents/)\n\nMy research on uncertainty estimation for LLMs:  \n[https://aclanthology.org/2024.acl-long.283/](https://aclanthology.org/2024.acl-long.283/)"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/Rag/comments/1fcqvzf/how_do_you_handle_guardrails_in_your_rag/mt82ywx/",
+            "content": "Here's a guardrails solution that my startup offers:  [https://help.cleanlab.ai/tlm/use-cases/tlm\\_guardrails/](https://help.cleanlab.ai/tlm/use-cases/tlm_guardrails/)\n\nUnlike other guardrails out there, it can automatically catch incorrect/untrustworthy LLM responses, in addition to unsafe/bad ones."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/technicalwriting/comments/1jxilrh/how_to_test_the_accuracy_of_chatbot_responses_for/mq9b17t/",
+            "content": "You can use this automated trustworthiness scoring tool for LLM outputs that I developed:  \n[https://help.cleanlab.ai/tlm/](https://help.cleanlab.ai/tlm/)\n\nIt will score every LLM response in real-time, with the lower scores helping you catch responses that are actually incorrect/bad."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/OpenAI/comments/1dqxkbn/the_main_thing_stopping_llms_being_useful_in_many/mp1hsmd/",
+            "content": "Yep hallucinations are a huge problem, and only growing with Agentic apps.  OpenAI recently said their newer models are hallucinating more (!) not less, and they don't know why.\n\nTo mitigate hallucinations, you can add an Automated Trustworthiness Scoring system for your LLM outputs.  Because it's so critical, I started a company specifically to provide this:  [https://cleanlab.ai/tlm/](https://cleanlab.ai/tlm/)"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/MachineLearning/comments/1c5rbk0/p_prevent_llm_hallucinations/mp1h4ce/",
+            "content": "Based on years of LLM uncertainty-estimation research, I built a high precision tool to solve this exact problem:\n\n[https://help.cleanlab.ai/tlm/use-cases/tlm\\_rag/](https://help.cleanlab.ai/tlm/use-cases/tlm_rag/)\n\nIt has been integrated into platforms like Nvidia's Guardrails, here is a customer support example:\n\n[https://developer.nvidia.com/blog/prevent-llm-hallucinations-with-the-cleanlab-trustworthy-language-model-in-nvidia-nemo-guardrails/](https://developer.nvidia.com/blog/prevent-llm-hallucinations-with-the-cleanlab-trustworthy-language-model-in-nvidia-nemo-guardrails/)"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1k3whst/why_cant_we_solve_hallucinations_by_introducing_a/moqfhf8/",
+            "content": "What you are proposing is to have the LLM learn to estimate what it does not know essentially via additional data, this is typically called estimating the \"aleatoric uncertainty\" or \"known unknowns\".  There other type of uncertainty is \"epistemic uncertainty\" or \"unknown unknowns\", and it stems from trying to respond to inputs which do not resemble any of the previously seen training data (extrapolation, which ML models struggle with).  \n\n[https://towardsdatascience.com/aleatoric-and-epistemic-uncertainty-in-deep-learning-77e5c51f9423/](https://towardsdatascience.com/aleatoric-and-epistemic-uncertainty-in-deep-learning-77e5c51f9423/)\n\nAccounting for both forms of uncertainty is important for AI safety/robustness, but direct training can only estimate aleatoric uncertainty.  Because of this, I ended up creating my own tool to estimate the overall uncertainty in LLM responses:  [https://chat.cleanlab.ai/](https://chat.cleanlab.ai/)"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/OpenAI/comments/1k1hatc/ugho3_hallucinates_more_than_any_model_ive_ever/mo51jy5/",
+            "content": "I had the same initial reaction when o3-mini came out.  Felt it so strongly I even made a video/song about it \n\n[https://www.youtube.com/watch?v=dqeDKai8rNQ](https://www.youtube.com/watch?v=dqeDKai8rNQ)"
+        }
+    ]
+}

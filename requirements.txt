@@ -1,0 +1,20 @@
+# Web Framework and Server
+fastapi==0.116.1
+uvicorn==0.35.0
+
+# Reddit Scraping
+praw==7.8.1
+
+# Environment Variable Management
+python-dotenv==1.1.1
+
+# LLM Interaction and Management
+litellm==1.74.3
+openai==1.95.0
+# ... (more LLM libraries can be added as needed)
+
+# Data Validation and Structured Output
+pydantic==2.11.7
+
+# Configuration and Prompt Loading
+PyYAML==6.0.2

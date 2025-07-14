@@ -1,0 +1,102 @@
+{
+  "username": "kojied",
+  "summary": "The user 'kojied' is an active Redditor who engages heavily during late-night hours, sharing insights primarily related to nightlife experiences, societal observations, and technology. They often express a philosophical view on generational differences and explore themes around cultural narratives while maintaining a casual and engaging tone in their posts and comments. Despite limited original content, they exhibit curiosity and a desire for learning within both technical and socio-political domains.",
+  "personality_traits": {
+    "introvert_extrovert": 4,
+    "analytical_creative": 6,
+    "skeptical_trusting": 5,
+    "passive_proactive": 7
+  },
+  "behaviors_and_habits": [
+    {
+      "description": "Engages during late-night hours, indicating a preference for quieter times for social interaction.",
+      "citations": [
+        "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/"
+      ]
+    },
+    {
+      "description": "Mixed engagement in nightlife, expressing feelings of disconnect with other age groups.",
+      "citations": [
+        "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/"
+      ]
+    },
+    {
+      "description": "Moderate interaction with a focus on exploring societal narratives and historical contexts in various topics.",
+      "citations": [
+        "https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/"
+      ]
+    },
+    {
+      "description": "Evaluates technology and its impact on workflows and life, particularly interested in the Vision Pro.",
+      "citations": [
+        "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/"
+      ]
+    }
+  ],
+  "topics_of_interest": [
+    {
+      "description": "Technology integration in daily life, especially related to new devices like Vision Pro.",
+      "citations": [
+        "https://www.reddit.com/r/VisionPro/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/"
+      ]
+    },
+    {
+      "description": "Perspectives on immigration and labor, particularly regarding H1B visa holders.",
+      "citations": [
+        "https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/"
+      ]
+    },
+    {
+      "description": "Exploration of generational identity through media, focusing on coming-of-age films for Gen-Z.",
+      "citations": [
+        "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/"
+      ]
+    },
+    {
+      "description": "Cultural commentary on social phenomena, including nightlife and social norms.",
+      "citations": [
+        "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/"
+      ]
+    }
+  ],
+  "motivations_and_values": [
+    {
+      "description": "Desire to understand and critique societal narratives, particularly around history and cultural identity.",
+      "citations": [
+        "https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/"
+      ]
+    },
+    {
+      "description": "Interest in optimizing personal workflow through technology.",
+      "citations": [
+        "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/"
+      ]
+    },
+    {
+      "description": "Value of cultural exchange, particularly in the context of shared media experiences.",
+      "citations": [
+        "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/"
+      ]
+    }
+  ],
+  "frustrations_and_pain_points": [
+    {
+      "description": "Feelings of disconnection from younger generations in social settings.",
+      "citations": [
+        "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/"
+      ]
+    },
+    {
+      "description": "Concern about inadequate application support for new technology.",
+      "citations": [
+        "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/"
+      ]
+    },
+    {
+      "description": "Skepticism regarding the sustainability of digital trends like NFTs.",
+      "citations": [
+        "https://www.reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/"
+      ]
+    }
+  ]
+}

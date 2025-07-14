@@ -1,0 +1,76 @@
+{
+    "summary_analysis": {
+        "username": "Hungry-Move-6603",
+        "total_posts": 2,
+        "total_comments": 10,
+        "most_active_period": "Morning (5am-12pm UTC)",
+        "average_post_score": 111.5,
+        "average_comment_score": 1.9,
+        "nsfw_post_percentage": 0.0,
+        "spoiler_post_percentage": 0.0,
+        "original_content_percentage": 0.0,
+        "edited_comment_percentage": 10.0
+    },
+    "content_for_llm": [
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/",
+            "content": "Post Title: Productive weekend activities in LKO?\n\nPost Body: [removed]"
+        },
+        {
+            "type": "Post",
+            "source_url": "https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/",
+            "content": "Post Title: Everyone is something in LKO\n\nPost Body: Born and raised in Delhi - I shifted to LKO in Dec 24 for business purposes. I have hardly seen a car which does not have a sticker on it - everyone is uttar pradesh sarkar, adhiwakta, nyay palika, mahamantri, skoda laura, adrak lsson. \n\n\nWhat is the obsession peeps."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/",
+            "content": "I was caught without helmet and license (close to my home). Cops outright wanted to fine me, but a 'common guy' came in and discussed bribe on my behalf with cops. I gave him 200rs (back in 2011) and Cops let me go.\n\nHe was not a common man. He was their agent and shield. If I or anyone recorded myself handing out money, it would be to a common man, not cops directly."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2y7g0s/",
+            "content": "Cops keep a civ around to discuss bribes."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/",
+            "content": "Toh hum Noida or Ghaziabad se pahadio ko bhagana shuru karein fir? \ud83d\ude02 Bhukmari ajaegi"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/",
+            "content": "A menu easy to cook/process - healthy and quick."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/n2ilsqh/",
+            "content": "Haha Delhi is hateable too but mostly those are HR or UP14 NCR vehicle. Plus the percentage of vehicles of such sort is low."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/n2ihjjp/",
+            "content": "Its about the volume/%. The number of cars having these stickers is way too high compared to Delhi, or anywhere else."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/n2igp7d/",
+            "content": "Never seen anything of this sort in capital city of India. So yes I did not expect \ud83e\udd2a"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/n2hx8z7/",
+            "content": "Dont you have big muscle brothers or friends? or cop/lawyer friends? My hands are always itching to teach a lesson to such people."
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2hvomb/",
+            "content": "Same problem. I started eating power meals at home atleast saves me from crap quality. I even purchased a 250 per meal tiffin and it had palm oil!!!"
+        },
+        {
+            "type": "Comment",
+            "source_url": "https://www.reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/",
+            "content": "Below Average."
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+  "username": "jonas__m",
+  "summary": "Jonas__m is deeply engaged in discussions around AI and machine learning, particularly on topics related to trustworthiness and reliability in large language models (LLMs). He is proactive in sharing insights and techniques for addressing challenges such as hallucinations in AI responses and emphasizes the use of uncertainty estimation methods to improve model performance.",
+  "personality_traits": {
+    "introvert_extrovert": 6,
+    "analytical_creative": 9,
+    "skeptical_trusting": 4,
+    "passive_proactive": 8
+  },
+  "behaviors_and_habits": [
+    {
+      "description": "Posts and comments frequently focus on trustworthiness and error detection in LLMs.",
+      "citations": [
+        "https://www.reddit.com/r/OpenAI/comments/1lz3v5q/prevent_incorrect_responses_from_any_agent_with/",
+        "https://www.reddit.com/r/LangChain/comments/1lz3t89/prevent_incorrect_responses_from_any_agent_with/",
+        "https://www.reddit.com/r/AI_Agents/comments/1lz3mm3/prevent_incorrect_responses_from_any_agent_with/"
+      ]
+    },
+    {
+      "description": "Active during late-night hours, suggesting a preference for working or engaging online when fewer are awake.",
+      "citations": []
+    },
+    {
+      "description": "Contributes both original content and citations of his own research in discussions.",
+      "citations": [
+        "https://aclanthology.org/2024.acl-long.283/",
+        "https://cleanlab.ai/blog/prevent-hallucinated-responses/"
+      ]
+    },
+    {
+      "description": "Engages in providing detailed explanations and links to additional resources.",
+      "citations": [
+        "https://help.cleanlab.ai/tlm/faq/#how-does-it-work",
+        "https://cleanlab.ai/tlm/"
+      ]
+    }
+  ],
+  "topics_of_interest": [
+    {
+      "description": "Uncertainty estimation in AI, particularly for reducing errors in LLM outputs.",
+      "citations": [
+        "https://www.reddit.com/r/OpenAI/comments/1j9983e/automated_llm_trust_scoring_to_address_the_1/",
+        "https://www.reddit.com/r/learnmachinelearning/comments/1j6zbor/use_uncertainty_estimation_to_catch/"
+      ]
+    },
+    {
+      "description": "Detection of hallucinations and improving the reliability of AI agents.",
+      "citations": [
+        "https://www.reddit.com/r/ArtificialInteligence/comments/1j6thyw/visualizing_llm_beliefs_predictive_distributions/"
+      ]
+    },
+    {
+      "description": "Real-time evaluation of responses in RAG (Retrieval-Augmented Generation) applications.",
+      "citations": [
+        "https://www.reddit.com/r/Rag/comments/1jz2ffm/realtime_evaluation_models_for_rag_who_detects/"
+      ]
+    }
+  ],
+  "motivations_and_values": [
+    {
+      "description": "A strong commitment to improving the reliability of AI systems, driven by first-hand experience with issues like hallucinations.",
+      "citations": [
+        "https://www.reddit.com/r/OpenAI/comments/1dqxkbn/the_main_thing_stopping_llms_being_useful_in_many/mp1hsmd/"
+      ]
+    },
+    {
+      "description": "Believes in scalable solutions and tools that enhance AI model performance.",
+      "citations": [
+        "https://www.reddit.com/r/AI_Agents/comments/1lz3mm3/prevent_incorrect_responses_from_any_agent_with/n2you3w/"
+      ]
+    }
+  ],
+  "frustrations_and_pain_points": [
+    {
+      "description": "Frustration with the prevalence of hallucinations in LLMs and the challenges they present for AI developers.",
+      "citations": [
+        "https://www.reddit.com/r/OpenAI/comments/1k1hatc/ugho3_hallucinates_more_than_any_model_ive_ever/mo51jy5/"
+      ]
+    },
+    {
+      "description": "Concern over LLMs becoming more unreliable in current models, as stated by industry leaders.",
+      "citations": [
+        "https://www.reddit.com/r/OpenAI/comments/1dqxkbn/the_main_thing_stopping_llms_being_useful_in_many/mp1hsmd/"
+      ]
+    }
+  ]
+}
